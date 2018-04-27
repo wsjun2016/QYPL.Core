@@ -9,3 +9,14 @@ G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfo
 G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfo.cs
 G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.dll
 G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.pdb
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.deps.json
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.runtimeconfig.json
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.runtimeconfig.dev.json
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.dll
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.pdb
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.csproj.CoreCompileInputs.cache
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfoInputs.cache
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfo.cs
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.dll
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.pdb
+E:\vs2017\Study\QYPL.Core\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.xml
