@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QYPL.WebApi", "QYPL.WebApi\QYPL.WebApi.csproj", "{F97F2744-1203-47B0-BD43-6F6A8B646C9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QYPL.Infrastructure", "QYPL.Infrastructure", "{F3EB3C06-F080-4A9D-A3D3-14701D23DE7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QYPL.Application", "QYPL.Application", "{B1A74CD2-8344-4C8C-84DB-E171E487BC9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QYPL.Domain", "QYPL.Domain", "{27A9AD00-8C11-48FE-A1C0-C9951918C5FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QYPL.Framework", "QYPL.Framework", "{916D6917-EA59-4B86-AEDA-18F2A59B2396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97F2744-1203-47B0-BD43-6F6A8B646C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97F2744-1203-47B0-BD43-6F6A8B646C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97F2744-1203-47B0-BD43-6F6A8B646C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97F2744-1203-47B0-BD43-6F6A8B646C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{916D6917-EA59-4B86-AEDA-18F2A59B2396} = {F3EB3C06-F080-4A9D-A3D3-14701D23DE7A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62BF993-62B2-43BB-A0ED-A83CA5DD082A}
+	EndGlobalSection
+EndGlobal

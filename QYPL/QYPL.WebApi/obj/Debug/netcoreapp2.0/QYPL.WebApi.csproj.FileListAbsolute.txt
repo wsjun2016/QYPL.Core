@@ -1,0 +1,11 @@
+G:\vs2017\Play\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.deps.json
+G:\vs2017\Play\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.runtimeconfig.json
+G:\vs2017\Play\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.runtimeconfig.dev.json
+G:\vs2017\Play\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.dll
+G:\vs2017\Play\QYPL\QYPL.WebApi\bin\Debug\netcoreapp2.0\QYPL.WebApi.pdb
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.csprojResolveAssemblyReference.cache
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.csproj.CoreCompileInputs.cache
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfoInputs.cache
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.AssemblyInfo.cs
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.dll
+G:\vs2017\Play\QYPL\QYPL.WebApi\obj\Debug\netcoreapp2.0\QYPL.WebApi.pdb
